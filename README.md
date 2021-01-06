@@ -14,4 +14,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![](https://github-readme-stats.vercel.app/api?username=selcux)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=selcux&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=selcux&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=selcuk&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
+
