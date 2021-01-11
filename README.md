@@ -20,8 +20,8 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=selcux&show_icons=true&layout=compact&langs_count=10" alt="selcux" />
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=selcux&show_icons=true&count_private=true" alt="selcux" />
-
 <img align="right" src="https://github-readme-stats.vercel.app/api/wakatime?username=selcuk&show_icons=true" alt="selcux">
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=selcux&show_icons=true&count_private=true" alt="selcux" />
 
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=selcux&" alt="selcux" /></p>
