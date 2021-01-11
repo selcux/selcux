@@ -5,10 +5,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/selcux" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="selcux" height="30" width="40" /></a>
-<a href="https://twitter.com/selcux" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="selcux" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/selcukozturk" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="selcukozturk" height="30" width="40" /></a>
-<a href="https://medium.com/@selcux" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@selcux" height="30" width="40" /></a>
+<a href="https://dev.to/selcux" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@4.6.0/icons/dev-dot-to.svg" alt="selcux" height="30" width="40" /></a>
+<a href="https://hashnode.com/@selcux" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@4.6.0/icons/hashnode.svg" alt="selcux" height="30" width="40" /></a>
+<a href="https://twitter.com/selcux" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@4.6.0/icons/twitter.svg" alt="selcux" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/selcukozturk" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@4.6.0/icons/linkedin.svg" alt="selcukozturk" height="30" width="40" /></a>
+<a href="https://medium.com/@selcux" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@4.6.0/icons/medium.svg" alt="@selcux" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
