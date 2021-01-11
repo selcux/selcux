@@ -22,6 +22,4 @@
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=selcuk&show_icons=true" alt="selcux">
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=selcux&" alt="selcux" />
-
 </p>
