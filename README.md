@@ -16,10 +16,10 @@
 
 <p>
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=selcux&show_icons=true&count_private=true" alt="selcux" />
+<img align="left" src="https://github-readme-stats-git-master.selcux.vercel.app/api?username=selcux&show_icons=true&count_private=true" alt="selcux" />
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=selcux&show_icons=true&layout=compact&langs_count=10" alt="selcux" />
+<img align="left" src="https://github-readme-stats-git-master.selcux.vercel.app/api/top-langs?username=selcux&show_icons=true&layout=compact&langs_count=10" alt="selcux" />
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=selcuk&show_icons=true" alt="selcux">
+<img align="left" src="https://github-readme-stats-git-master.selcux.vercel.app/api/wakatime?username=selcuk&show_icons=true" alt="selcux">
 
 </p>
