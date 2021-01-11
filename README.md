@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Selçuk</h1>
+<h1 align="center">Hi 👋, I'm Selcuk</h1>
 <h3 align="center">A software developer</h3>
 
 - 🌱 I’m currently learning **Rust, Racket, Clojure and Python**
