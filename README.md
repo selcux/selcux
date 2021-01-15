@@ -1,116 +1,62 @@
-<h1 align="center">Hi 👋, I'm Selcuk</h1>
-<h3 align="center">A software developer</h3>
+## Hi 👋, I'm Selcuk
+
+### A software developer
 
 - 🌱 I’m currently learning **Rust, Racket, Clojure and Python**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-	<a href="https://dev.to/selcux" target="blank">
-		<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@4.6.0/icons/dev-dot-to.svg" alt="selcux" height="30" width="40" />
-	</a>
-	<a href="https://hashnode.com/@selcux" target="blank">
-		<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@4.6.0/icons/hashnode.svg" alt="selcux" height="30" width="40" />
-	</a>
-	<a href="https://twitter.com/selcux" target="blank">
-		<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@4.6.0/icons/twitter.svg" alt="selcux" height="30" width="40" />
-	</a>
-	<a href="https://linkedin.com/in/selcukozturk" target="blank">
-		<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@4.6.0/icons/linkedin.svg" alt="selcukozturk" height="30" width="40" />
-	</a>
-	<a href="https://medium.com/@selcux" target="blank">
-		<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@4.6.0/icons/medium.svg" alt="@selcux" height="30" width="40" />
-	</a>
-</p>
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-	<a href="https://azure.microsoft.com/en-in/" target="_blank">
-		<img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40" />
-	</a>
-	<a href="https://www.gnu.org/software/bash/" target="_blank">
-		<img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40" />
-	</a>
-	<a href="https://www.cprogramming.com/" target="_blank">
-		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40" />
-	</a>
-	<a href="https://clojure.org/" target="_blank">
-		<img src="https://upload.wikimedia.org/wikipedia/commons/5/5d/Clojure_logo.svg" alt="clojure" width="40" height="40" />
-	</a>
-	<a href="https://www.w3schools.com/cpp/" target="_blank">
-		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40" />
-	</a>
-	<a href="https://www.w3schools.com/cs/" target="_blank">
-		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40" />
-	</a>
-	<a href="https://www.docker.com/" target="_blank">
-		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40" />
-	</a>
-	<a href="https://dotnet.microsoft.com/" target="_blank">
-		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40" />
-	</a>
-	<a href="https://elixir-lang.org" target="_blank">
-		<img src="https://www.vectorlogo.zone/logos/elixir-lang/elixir-lang-icon.svg" alt="elixir" width="40" height="40" />
-	</a>
-	<a href="https://firebase.google.com/" target="_blank">
-		<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40" />
-	</a>
-	<a href="https://golang.org" target="_blank">
-		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40" />
-	</a>
-	<a href="https://heroku.com" target="_blank">
-		<img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40" />
-	</a>
-	<a href="https://gohugo.io/" target="_blank">
-		<img src="https://api.iconify.design/logos-hugo.svg" alt="hugo" width="40" height="40" />
-	</a>
-	<a href="https://www.java.com" target="_blank">
-		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" />
-	</a>
-	<a href="https://www.linux.org/" target="_blank">
-		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" />
-	</a>
-	<a href="https://www.mongodb.com/" target="_blank">
-		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40" />
-	</a>
-	<a href="https://www.microsoft.com/en-us/sql-server" target="_blank">
-		<img src="https://cdn.worldvectorlogo.com/logos/microsoft-sql-server.svg" alt="mssql" width="40" height="40" />
-	</a>
-	<a href="https://www.mysql.com/" target="_blank">
-		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" />
-	</a>
-	<a href="https://www.postgresql.org" target="_blank">
-		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40" />
-	</a>
-	<a href="https://www.python.org" target="_blank">
-		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" />
-	</a>
-	<a href="https://racket-lang.org/" target="_blank">
-		<img src="https://upload.wikimedia.org/wikipedia/commons/c/c1/Racket-logo.svg" alt="clojure" width="40" height="40" />
-	</a>
-	<a href="https://www.rust-lang.org" target="_blank">
-		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40" />
-	</a>
-	<a href="https://www.scala-lang.org" target="_blank">
-		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-original.svg" alt="scala" width="40" height="40" />
-	</a>
-	<a href="https://unity.com/" target="_blank">
-		<img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40" />
-	</a>
-	<a href="https://www.vagrantup.com/" target="_blank">
-		<img src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg" alt="vagrant" width="40" height="40" />
-	</a>
-	<a href="https://www.wxwidgets.org/" target="_blank">
-		<img src="https://upload.wikimedia.org/wikipedia/commons/b/bb/WxWidgets.svg" alt="wx_widgets" width="40" height="40" />
-	</a>
-</p>
+### Connect with me
+
+[![selcux](https://cdn.jsdelivr.net/npm/simple-icons@4.6.0/icons/dev-dot-to.svg)](https://dev.to/selcux)
+[![selcux](https://cdn.jsdelivr.net/npm/simple-icons@4.6.0/icons/hashnode.svg)](https://hashnode.com/@selcux)
+[![selcux](https://cdn.jsdelivr.net/npm/simple-icons@4.6.0/icons/twitter.svg)](https://twitter.com/selcux)
+[![selcukozturk](https://cdn.jsdelivr.net/npm/simple-icons@4.6.0/icons/linkedin.svg)](https://linkedin.com/in/selcukozturk)
+[![@selcux](https://cdn.jsdelivr.net/npm/simple-icons@4.6.0/icons/medium.svg)](https://medium.com/@selcux)
+
+### Languages and Tools
+
+[![Clojure](https://img.shields.io/badge/clojure-557dd1.svg?logo=clojure&logoColor=green&style=for-the-badge)](https://clojure.org/)
+[![Bash](https://img.shields.io/badge/Bash-4EAA25.svg?logoColor=white&style=for-the-badge&logo=gnu-bash)](https://www.gnu.org/software/bash/)
+[![C](https://img.shields.io/badge/C-A8B9CC.svg?logoColor=black&style=for-the-badge&logo=c)](https://www.cprogramming.com/)
+[![C++](https://img.shields.io/badge/C++-00599C.svg?logoColor=white&style=for-the-badge&logo=c%2B%2B)](https://www.cplusplus.com/)
+[![C#](https://img.shields.io/badge/C%23-239120.svg?logoColor=white&style=for-the-badge&logo=c-sharp)](https://docs.microsoft.com/en-us/dotnet/csharp/)
+[![.NET](https://img.shields.io/badge/.NET-5C2D91.svg?logoColor=white&style=for-the-badge&logo=.net)](https://dotnet.microsoft.com/)
+[![Elixir](https://img.shields.io/badge/Elixir-4B275F.svg?logoColor=white&style=for-the-badge&logo=elixir)](https://elixir-lang.org/)
+[![Go](https://img.shields.io/badge/Go-00ADD8.svg?logoColor=white&style=for-the-badge&logo=go)](https://golang.org/)
+[![Java](https://img.shields.io/badge/Java-007396.svg?logoColor=white&style=for-the-badge&logo=java)](https://www.java.com/)
+[![Python](https://img.shields.io/badge/Python-3776AB.svg?logoColor=white&style=for-the-badge&logo=python)](https://www.python.org/)
+[![Racket](https://img.shields.io/badge/racket-0679a7?logoColor=white&style=for-the-badge&logo=data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4KPCEtLSBHZW5lcmF0b3I6IEFkb2JlIElsbHVzdHJhdG9yIDE1LjEuMCwgU1ZHIEV4cG9ydCBQbHVnLUluIC4gU1ZHIFZlcnNpb246IDYuMDAgQnVpbGQgMCkgIC0tPgo8IURPQ1RZUEUgc3ZnIFBVQkxJQyAiLS8vVzNDLy9EVEQgU1ZHIDEuMS8vRU4iICJodHRwOi8vd3d3LnczLm9yZy9HcmFwaGljcy9TVkcvMS4xL0RURC9zdmcxMS5kdGQiPgo8c3ZnIHZlcnNpb249IjEuMSIgaWQ9ImNpcmNsZV9waWVjZXMiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIHg9IjBweCIgeT0iMHB4IiB3aWR0aD0iNTExLjg3NXB4IiBoZWlnaHQ9IjUxMS44MjRweCIgdmlld0JveD0iMCAwIDUxMS44NzUgNTExLjgyNCIgZW5hYmxlLWJhY2tncm91bmQ9Im5ldyAwIDAgNTExLjg3NSA1MTEuODI0IiB4bWw6c3BhY2U9InByZXNlcnZlIj4KPGNpcmNsZSBpZD0iY2lyY2xlIiBmaWxsPSIjRkZGRkZGIiBjeD0iMjU2LjI1MiIgY3k9IjI1NS45ODYiIHI9IjI1My4wOTMiLz4KPHBhdGggaWQ9ImJsdWUtcGllY2UiIGZpbGw9IiMzRTVCQTkiIGQ9Ik00NTUuMzk4LDQxMi4xOTdjMzMuNzkyLTQzLjAyMSw1My45NDYtOTcuMjYyLDUzLjk0Ni0xNTYuMjExICBjMC0xMzkuNzc5LTExMy4zMTMtMjUzLjA5My0yNTMuMDkzLTI1My4wOTNjLTMwLjQwNiwwLTU5LjU1OCw1LjM2Ny04Ni41NjYsMTUuMTk3QzI3Mi40MzUsNzEuOTg5LDQwOC4zNDksMjQ3LjgzOSw0NTUuMzk4LDQxMi4xOTd6ICAiLz4KPHBhdGggaWQ9ImxlZnQtcmVkLXBpZWNlIiBmaWxsPSIjOUYxRDIwIiBkPSJNMjIwLjAwMywxNjQuMzM3Yy0zOS40ODEtNDIuNTMzLTgzLjY5NS03Ni4zMTItMTMwLjUyMy05OC43MTUgIEMzNi41NzMsMTEyLjAxMSwzLjE1OSwxODAuMDkyLDMuMTU5LDI1NS45ODZjMCw2My44MTQsMjMuNjI2LDEyMi4xMDQsNjIuNTk3LDE2Ni42MjMgIEMxMDAuMTExLDMxOS4zOTIsMTY0LjY5NywyMTkuOTA3LDIyMC4wMDMsMTY0LjMzN3oiLz4KPHBhdGggaWQ9ImJvdHRvbS1yZWQtcGllY2UiIGZpbGw9IiM5RjFEMjAiIGQ9Ik0yNjYuNjM4LDIyMS43MjdjLTU0Ljc5Miw1OS4wNTEtMTA5LjM5MiwxNjIuNDIyLTEyOS4xNTIsMjU3Ljc5NCAgYzM1LjQxOSwxOC44NTcsNzUuODQsMjkuNTU5LDExOC43NjYsMjkuNTU5YzQ0LjEzMiwwLDg1LjYxOC0xMS4zMDYsMTIxLjc0LTMxLjE2M0MzNTcuMTcxLDM4MS43MTIsMzE3Ljg2OCwyOTMuNjA0LDI2Ni42MzgsMjIxLjcyNyAgeiIvPgo8L3N2Zz4=)](https://www.racket-lang.org/)
+[![Rust](https://img.shields.io/badge/rust-ef4a00.svg?logo=rust&logoColor=white&style=for-the-badge)](https://www.rust-lang.org/)
+[![Scala](https://img.shields.io/badge/Scala-DC322F.svg?logoColor=white&style=for-the-badge&logo=scala)](https://www.scala-lang.org/)
+
+[![Azure](https://img.shields.io/badge/Azure-0089D6.svg?logoColor=white&style=for-the-badge&logo=microsoft-azure)](https://azure.microsoft.com/)
+[![AWS](https://img.shields.io/badge/AWS-232F3E.svg?logoColor=white&style=for-the-badge&logo=amazon-aws)](https://aws.amazon.com/)
+[![Docker](https://img.shields.io/badge/Docker-2496ED.svg?logoColor=white&style=for-the-badge&logo=docker)](https://www.docker.com/)
+[![Heroku](https://img.shields.io/badge/Heroku-430098.svg?logoColor=white&style=for-the-badge&logo=heroku)](https://heroku.com/)
+[![Vagrant](https://img.shields.io/badge/Vagrant-1563FF.svg?logoColor=white&style=for-the-badge&logo=vagrant)](https://www.vagrantup.com/)
+
+[![Hugo](https://img.shields.io/badge/Hugo-FF4088.svg?logoColor=white&style=for-the-badge&logo=hugo)](https://gohugo.io/)
+
+[![Linux](https://img.shields.io/badge/Linux-FCC624.svg?logoColor=black&style=for-the-badge&logo=linux)](https://www.linux.org/)
+[![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1.svg?logoColor=white&style=for-the-badge&logo=arch-linux)](https://archlinux.org/)
+
+[![MongoDB](https://img.shields.io/badge/MongoDB-47A248.svg?logoColor=white&style=for-the-badge&logo=mongodb)](https://www.mongodb.com/)
+[![MS SQL](https://img.shields.io/badge/MS%20SQL-CC2927.svg?logoColor=white&style=for-the-badge&logo=Microsoft-SQL-Server)](https://www.microsoft.com/sql-server/)
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?logoColor=white&style=for-the-badge&logo=mysql)](https://www.mysql.com/)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791.svg?logoColor=white&style=for-the-badge&logo=postgresql)](https://www.postgresql.org/)
+
+[![Unity](https://img.shields.io/badge/Unity-000000.svg?logoColor=white&style=for-the-badge&logo=unity)](https://unity.com/)
+
 <details>
 	<summary>:zap: GitHub Stats</summary>
 	<img src="https://github-readme-stats-git-master.selcux.vercel.app/api?username=selcux&show_icons=true&count_private=true&layout=compact" alt="selcux" />
 </details>
+
 <details>
 	<summary>:zap: Top Languages</summary>
 	<img src="https://github-readme-stats-git-master.selcux.vercel.app/api/top-langs?username=selcux&show_icons=true&langs_count=10&layout=compact" alt="selcux" />
 </details>
+
 <details>
 	<summary>:zap: Wakatime Stats</summary>
 	<img src="https://github-readme-stats-git-master.selcux.vercel.app/api/wakatime?username=selcuk&show_icons=true&layout=compact" alt="selcux">
-	</details>
+</details>
