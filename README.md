@@ -6,11 +6,23 @@
 
 ### Connect with me
 
-[![selcux](https://cdn.jsdelivr.net/npm/simple-icons@4.6.0/icons/dev-dot-to.svg)](https://dev.to/selcux)
-[![selcux](https://cdn.jsdelivr.net/npm/simple-icons@4.6.0/icons/hashnode.svg)](https://hashnode.com/@selcux)
-[![selcux](https://cdn.jsdelivr.net/npm/simple-icons@4.6.0/icons/twitter.svg)](https://twitter.com/selcux)
-[![selcukozturk](https://cdn.jsdelivr.net/npm/simple-icons@4.6.0/icons/linkedin.svg)](https://linkedin.com/in/selcukozturk)
-[![@selcux](https://cdn.jsdelivr.net/npm/simple-icons@4.6.0/icons/medium.svg)](https://medium.com/@selcux)
+<p align="left">
+	<a href="https://dev.to/selcux" target="blank">
+		<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@4.6.0/icons/dev-dot-to.svg" alt="selcux" height="30" width="40" />
+	</a>
+	<a href="https://hashnode.com/@selcux" target="blank">
+		<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@4.6.0/icons/hashnode.svg" alt="selcux" height="30" width="40" />
+	</a>
+	<a href="https://twitter.com/selcux" target="blank">
+		<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@4.6.0/icons/twitter.svg" alt="selcux" height="30" width="40" />
+	</a>
+	<a href="https://linkedin.com/in/selcukozturk" target="blank">
+		<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@4.6.0/icons/linkedin.svg" alt="selcukozturk" height="30" width="40" />
+	</a>
+	<a href="https://medium.com/@selcux" target="blank">
+		<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@4.6.0/icons/medium.svg" alt="@selcux" height="30" width="40" />
+	</a>
+</p>
 
 ### Languages and Tools
 
