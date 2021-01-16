@@ -26,12 +26,12 @@
 
 ### Languages and Tools
 
-[![Clojure](https://img.shields.io/badge/clojure-557dd1.svg?logo=clojure&logoColor=green&style=for-the-badge)](https://clojure.org/)
 [![Bash](https://img.shields.io/badge/Bash-4EAA25.svg?logoColor=white&style=for-the-badge&logo=gnu-bash)](https://www.gnu.org/software/bash/)
 [![C](https://img.shields.io/badge/C-A8B9CC.svg?logoColor=black&style=for-the-badge&logo=c)](https://www.cprogramming.com/)
 [![C++](https://img.shields.io/badge/C++-00599C.svg?logoColor=white&style=for-the-badge&logo=c%2B%2B)](https://www.cplusplus.com/)
 [![C#](https://img.shields.io/badge/C%23-239120.svg?logoColor=white&style=for-the-badge&logo=c-sharp)](https://docs.microsoft.com/en-us/dotnet/csharp/)
 [![.NET](https://img.shields.io/badge/.NET-5C2D91.svg?logoColor=white&style=for-the-badge&logo=.net)](https://dotnet.microsoft.com/)
+[![Clojure](https://img.shields.io/badge/clojure-557dd1.svg?logo=clojure&logoColor=green&style=for-the-badge)](https://clojure.org/)
 [![Elixir](https://img.shields.io/badge/Elixir-4B275F.svg?logoColor=white&style=for-the-badge&logo=elixir)](https://elixir-lang.org/)
 [![Go](https://img.shields.io/badge/Go-00ADD8.svg?logoColor=white&style=for-the-badge&logo=go)](https://golang.org/)
 [![Java](https://img.shields.io/badge/Java-007396.svg?logoColor=white&style=for-the-badge&logo=java)](https://www.java.com/)
