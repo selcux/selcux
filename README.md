@@ -6,27 +6,32 @@
 
 ### Connect with me
 
-<p align="left">	
-<a href = "https://linkedin.com/in/selcukozturk" target="blank">
-	<svg>
-		<use xlink:href="https://simpleicons.org/icons/linkedin.svg" style="--color_fill: #0077B5;"></use>
-	</svg>
-	</a>
-	<a href="https://linkedin.com/in/selcukozturk" target="blank">
-		<img align="center" src="https://simpleicons.org/icons/linkedin.svg" alt="selcukozturk" height="30" width="40" />
-	</a>
-	<a href="https://twitter.com/selcux" target="blank">
-		<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@4.6.0/icons/twitter.svg" alt="selcux" height="30" width="40" />
-	</a>
-	<a href="https://medium.com/@selcux" target="blank">
-		<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@4.6.0/icons/medium.svg" alt="@selcux" height="30" width="40" />
-	</a>
-	<a href="https://dev.to/selcux" target="blank">
-		<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@4.6.0/icons/dev-dot-to.svg" alt="selcux" height="30" width="40" />
-	</a>
-	<a href="https://hashnode.com/@selcux" target="blank">
-		<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@4.6.0/icons/hashnode.svg" alt="selcux" height="30" width="40" />
-	</a>
+<p align="left">
+    <a href="https://twitter.com/selcux" target="blank">
+        <img align="center"
+            src="https://img.shields.io/badge/-1DA1F2.svg?logoColor=white&style=for-the-badge&logo=twitter"
+            alt="selcux" />
+    </a>
+    <a href="https://linkedin.com/in/selcukozturk" target="blank">
+        <img align="center"
+            src="https://img.shields.io/badge/-0077B5.svg?logoColor=white&style=for-the-badge&logo=linkedin"
+            alt="selcux" />
+    </a>
+    <a href="https://medium.com/@selcux" target="blank">
+        <img align="center"
+            src="https://img.shields.io/badge/-12100E.svg?logoColor=white&style=for-the-badge&logo=medium"
+            alt="@selcux" />
+    </a>
+    <a href="https://dev.to/selcux" target="blank">
+        <img align="center"
+            src="https://img.shields.io/badge/-0A0A0A.svg?logoColor=white&style=for-the-badge&logo=dev.to"
+            alt="selcux" />
+    </a>
+    <a href="https://hashnode.com/@selcux" target="blank">
+        <img align="center"
+            src="https://img.shields.io/badge/-2962FF.svg?logoColor=white&style=for-the-badge&logo=hashnode"
+            alt="selcux" />
+    </a>
 </p>
 
 ### Languages and Tools
