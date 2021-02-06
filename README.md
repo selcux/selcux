@@ -6,9 +6,12 @@
 
 ### Connect with me
 
-<p align="left">
+<p align="left">	
+	<svg>
+		<use xlink:href="https://simpleicons.org/icons/linkedin.svg" style="--color_fill: #0077B5;"></use>
+	</svg>
 	<a href="https://linkedin.com/in/selcukozturk" target="blank">
-		<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@4.6.0/icons/linkedin.svg" alt="selcukozturk" height="30" width="40" />
+		<img align="center" src="https://simpleicons.org/icons/linkedin.svg" alt="selcukozturk" height="30" width="40" />
 	</a>
 	<a href="https://twitter.com/selcux" target="blank">
 		<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@4.6.0/icons/twitter.svg" alt="selcux" height="30" width="40" />
