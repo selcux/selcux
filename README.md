@@ -7,9 +7,11 @@
 ### Connect with me
 
 <p align="left">	
+<a href = "https://linkedin.com/in/selcukozturk" target="blank">
 	<svg>
 		<use xlink:href="https://simpleicons.org/icons/linkedin.svg" style="--color_fill: #0077B5;"></use>
 	</svg>
+	</a>
 	<a href="https://linkedin.com/in/selcukozturk" target="blank">
 		<img align="center" src="https://simpleicons.org/icons/linkedin.svg" alt="selcukozturk" height="30" width="40" />
 	</a>
