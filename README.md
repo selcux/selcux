@@ -2,7 +2,7 @@
 
 ### A software developer
 
-- 🌱 I’m currently learning **Rust, Racket, Clojure and Python**
+- 🌱 I’m currently learning **Rust, Racket and Clojure**
 
 ### Connect with me
 
