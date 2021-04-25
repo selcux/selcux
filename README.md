@@ -49,12 +49,9 @@
 [![Scala](https://img.shields.io/badge/Scala-DC322F.svg?logoColor=white&style=for-the-badge&logo=scala)](https://www.scala-lang.org/)
 
 [![Azure](https://img.shields.io/badge/Azure-0089D6.svg?logoColor=white&style=for-the-badge&logo=microsoft-azure)](https://azure.microsoft.com/)
-[//]: # ([![AWS](https://img.shields.io/badge/AWS-232F3E.svg?logoColor=white&style=for-the-badge&logo=amazon-aws)](https://aws.amazon.com/))
 [![Docker](https://img.shields.io/badge/Docker-2496ED.svg?logoColor=white&style=for-the-badge&logo=docker)](https://www.docker.com/)
 [![Heroku](https://img.shields.io/badge/Heroku-430098.svg?logoColor=white&style=for-the-badge&logo=heroku)](https://heroku.com/)
 [![Vagrant](https://img.shields.io/badge/Vagrant-1563FF.svg?logoColor=white&style=for-the-badge&logo=vagrant)](https://www.vagrantup.com/)
-
-[//]: # ([![Hugo](https://img.shields.io/badge/Hugo-FF4088.svg?logoColor=white&style=for-the-badge&logo=hugo)](https://gohugo.io/))
 
 [![Linux](https://img.shields.io/badge/Linux-FCC624.svg?logoColor=black&style=for-the-badge&logo=linux)](https://www.linux.org/)
 [![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1.svg?logoColor=white&style=for-the-badge&logo=arch-linux)](https://archlinux.org/)
