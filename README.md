@@ -64,15 +64,15 @@
 
 <details>
 	<summary>:zap: GitHub Stats</summary>
-	<img src="https://github-readme-stats-git-master.selcux.vercel.app/api?username=selcux&show_icons=true&count_private=true&layout=compact" alt="selcux" />
+	<img src="https://github-readme-stats.vercel.app/api?username=selcux&show_icons=true&count_private=true&layout=compact" alt="selcux" />
 </details>
 
 <details>
 	<summary>:zap: Top Languages</summary>
-	<img src="https://github-readme-stats-git-master.selcux.vercel.app/api/top-langs?username=selcux&show_icons=true&langs_count=10&layout=compact" alt="selcux" />
+	<img src="https://github-readme-stats.vercel.app/api/top-langs?username=selcux&show_icons=true&langs_count=10&layout=compact" alt="selcux" />
 </details>
 
 <details>
 	<summary>:zap: Wakatime Stats</summary>
-	<img src="https://github-readme-stats-git-master.selcux.vercel.app/api/wakatime?username=selcuk&show_icons=true&layout=compact" alt="selcux">
+	<img src="https://github-readme-stats.vercel.app/api/wakatime?username=selcuk&show_icons=true&layout=compact" alt="selcux">
 </details>
