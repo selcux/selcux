@@ -1,7 +1,3 @@
-## Hi there 👋
-
-### Connect with me
-
 <p align="left">
     <a href="https://twitter.com/selcux" target="blank">
         <img align="center"
@@ -41,6 +37,8 @@
 [![Docker](https://img.shields.io/badge/Docker-2496ED.svg?logoColor=white&style=for-the-badge&logo=docker)](https://www.docker.com/)
 [![Linux](https://img.shields.io/badge/Linux-FCC624.svg?logoColor=black&style=for-the-badge&logo=linux)](https://www.linux.org/)
 [![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1.svg?logoColor=white&style=for-the-badge&logo=arch-linux)](https://archlinux.org/)
+
+[![MongoDB](https://img.shields.io/badge/MongoDB-47A248.svg?logoColor=white&style=for-the-badge&logo=mongodb)](https://www.mongodb.com/)
 <!-- [![C](https://img.shields.io/badge/C-A8B9CC.svg?logoColor=black&style=for-the-badge&logo=c)](https://www.cprogramming.com/) -->
 <!-- [![.NET](https://img.shields.io/badge/.NET-5C2D91.svg?logoColor=white&style=for-the-badge&logo=.net)](https://dotnet.microsoft.com/) -->
 <!-- [![Clojure](https://img.shields.io/badge/clojure-557dd1.svg?logo=clojure&logoColor=green&style=for-the-badge)](https://clojure.org/) -->
